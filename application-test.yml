@@ -11,4 +11,4 @@ spring:
     password: ENC(Pqr+VPBA0Hymn3qFmiwYBofqua533gSlTAZpCnT4KQgaM3+hUMzqSdsRs1gFPFga)
 
 config:
-  info: master branch，spring cloud/config-test.yml version=0.0.1
+  info: master branch，spring cloud/config-test.yml version=0.0.2
