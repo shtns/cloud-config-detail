@@ -9,3 +9,6 @@ spring:
     url: jdbc:mysql://mysql:3306/db2020?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true
     username: sh
     password: ENC(Pqr+VPBA0Hymn3qFmiwYBofqua533gSlTAZpCnT4KQgaM3+hUMzqSdsRs1gFPFga)
+
+config:
+  info: master branch，spring cloud/config-test.yml version=0.0.1
